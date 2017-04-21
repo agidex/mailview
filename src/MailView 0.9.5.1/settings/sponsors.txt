@@ -1,0 +1,38 @@
+|surfcash24.com - paidmail|http://www.surfcash24.com/paidmail.php?pmid=|61|20|
+|surfcash24.com - newsseller1|http://www.surfcash24.com/nlc.php?id=|55|20|
+|surfcash24.com - newsseller2|http://surfcash24.com/nlc.php?id=|52|20|
+|crunchingbaseteam.com - kpaidmail|http://www.crunchingbaseteam.com/kpaidmail.php?|71|90|
+|crunchingbaseteam.com - paidmail|http://www.crunchingbaseteam.com/paidmail.php?|70|90|
+|crunchingbaseteam.com - newsseller|http://www.crunchingbaseteam.com/nlc.php?id=|62|90|
+|surfmore.eu - newsseller|http://surfmore.eu/nlc.php?id=|48|90|
+|surfmore.eu - kpaidmail|http://www.surfmore.eu/kpaidmail.php?pmid=|61|90|
+|surfmore.eu - paidmail|http://www.surfmore.eu/paidmail.php?pmid=|60|90|
+|proyos.de - kpaidmail|http://www.proyos.de/kpaidmail.php?pmid=|58|70|
+|proyos.de - paidmail|http://www.proyos.de/paidmail.php?pmid=|57|70|
+|surftausch.de - paidmail|http://www.surftausch.de/paidmail.php?pmid=|61|90|
+|surftausch.de - kpaidmail|http://www.surftausch.de/kpaidmail.php?pmid=|62|90|
+|xxl-besucher.de - kpaidmail|http://www.xxl-besucher.de/kpaidmail.php?pmid=|65|130|
+|xxl-besucher.de - paidmail1|http://www.xxl-besucher.de/paidmail.php?pmid=|63|90|
+|xxl-besucher.de - paidmail2|http://xxl-besucher.de/paidmail.php?pmid=|59|90|
+|saugeil.net - kpaidmail|http://www.saugeil.net/kpaidmail.php?pmid=|61|90|
+|saugeil.net - paidmail|http://www.saugeil.net/paidmail.php?pmid=|60|90|
+|mybesucher.de - newsseller|http://www.mybesucher.de/nlc.php?id=|54|5|
+|mybesucher.de - kpaidmail|http://mybesucher.de/kpaidmail.php?pmid=|59|90|
+|mybesucher.de - paidmail|http://mybesucher.de/paidmail.php?pmid=|57|90|
+|ebesucher.de|http://www.ebesucher.de/index.php?link=showmail&uid|82|30|
+|eurofriend.de|http://www.eurofriend.de/pclick.php?wid=|83|60|
+|hotrusclick.com|http://www.hotrusclick.com/track.php?t=paidmail&id=|91|30|
+|inhaltimweb.de - paidmail|http://www.inhaltimweb.de/paidmail.php?pmid=|61|60|
+|hockeyguide.de/freebesucher|http://www.hockeyguide.de/freebesucher/nlp.php?benutzer=isrugis&code=|96|90|
+|startparadies.de|http://www.startparadies.de/best_mails.php?tan=|118|90|
+|autovisitor.de - paidmail|http://www.autovisitor.de/paidmail.php?pmid=|62|60|
+|vipbesucher.de - kpaidmail|http://vipbesucher.de/kpaidmail.php?pmid=|59|90|
+|getpaidmail.com|http://www.getpaidmail.com/scripts/runner.php?EA=|67|90|
+|ruspaidmails|http://www.ruspaidmails.com/get_mmoney.php?mid=|62|20|
+|easy-surfen.com - paidmail|http://www.easy-surfen.com/paidmail.php?pmid=|63|60|
+|wm.beast.kz - paidmail|http://wm.beast.kz/track_emails.php?t=paidmail&id=|64|30|
+|mybesucher.de - kpaidmail2|http://www.mybesucher.de/kpaidmail.php?pmid=|63|60|
+|mybesucher.de - paidmail2|http://www.mybesucher.de/paidmail.php?pmid=|61|60|
+|crunchingbaseteam.com - kpaidmail2|http://crunchingbaseteam.com/kpaidmail.php?pmid=|67|60|
+|crunchingbaseteam.com - paidmail2|http://crunchingbaseteam.com/paidmail.php?pmid=|66|60|
+|autovisitor.de - newsseller|http://www.autovisitor.de/nlc.php?id=|55|5|
